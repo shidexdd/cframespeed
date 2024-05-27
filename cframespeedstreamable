@@ -3,7 +3,7 @@ repeat wait() until game:IsLoaded()
 getgenv().Fix = true
 
 getgenv().TeclasWS = {
-        ["tecla3"] = "X" -- toggle  
+        ["teclas"] = "X" -- toggle  
 }
 
 
